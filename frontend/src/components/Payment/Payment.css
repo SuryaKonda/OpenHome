@@ -1,0 +1,21 @@
+.newcard{
+    margin-top: 100px;
+}
+
+.modal-popup{
+    max-width: 30%;
+    overflow: hidden;
+    height: 80%;
+}
+
+#commentingTweet{
+    margin-bottom: 50px;
+}
+
+#use-card{
+    float: right;
+}
+
+#button{
+    margin-right: 20px;
+}
